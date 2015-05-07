@@ -1,11 +1,17 @@
 Assignment 10
 
 a) Do you find the code simpler when using AngularJS? If so, how? If not, why?
-Yes, I found use of AngularJS simple for following reasons: 1. As Angular JS implements MVC, Angular asks developer to split an app into MVC components, then rest of all is done by Angular. Angular also manages all componenets and also serves as the pipeline that connects them. 
+Yes, I found use of AngularJS simple for following reasons:
+1. As Angular JS implements MVC, Angular asks developer to split an app into MVC components,
+then rest of all is done by Angular. Angular also manages all componenets and also serves as the pipeline 
+that connects them. 
 2. Also the predefined directives helped me to prevent write extra code in jQuery.
 
 b)Would a beginner to front-end development find the code to be simpler? Why or why not?
-Yes, a beginner would find Angular JS code to be simpler because, Angular uses HTML to define the app's user interface and HTML is much more simple than client-side JavaScript for the front-end development. 
+Yes, a beginner would find Angular JS code to be simpler because,
+Angular uses HTML to define the app's user interface and HTML is much more simple than 
+client-side JavaScript for the front-end development. 
 
 c) How might the structure provided by Angular JS simplify building larger web applications?
-The data binding feature of Angular JS will help developer to simplify building larger application. Also When we use Angular JS we don't need to write extra code that we write using jQuery. 
+The data binding feature of Angular JS will help developer to simplify building larger application. 
+Also When we use Angular JS we don't need to write extra code that we write using jQuery. 
